@@ -64,6 +64,16 @@ background-image: linear-gradient(120deg, #020100 0%, #22032a 100%);
   cursor: pointer;
   border: solid 0.5px;
 }
+.btn_ubicacion{
+width: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: -50px;
+
+}
+
+
 
 .hero{
     background-image:url(./img/foto3.jpg);
@@ -71,7 +81,8 @@ background-image: linear-gradient(120deg, #020100 0%, #22032a 100%);
     background-size: cover;
     background-position: center;
     height: 600px;
-    
+ 
+    width: 100%;
 
     
 }
@@ -107,9 +118,10 @@ h1{
 }
 .icons{
     font-size: 20px;
-    margin: 5px;
-padding: 5px;
-display: inline-block
+    margin: 10px;
+padding: 10px;
+display: flex;
+justify-content: space-between;
 }
 .title{
     color:white;

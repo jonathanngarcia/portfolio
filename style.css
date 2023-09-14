@@ -445,10 +445,10 @@ h4 {
   }
   .contact-list {
     width: 80%;
-    border: 1px solid rgb(234, 219, 219);
+    border: 1px solid rgb(0, 0, 0);
     padding: 20px;
     border-radius: 10px;
-    color: #a7b5c3;
+    color: #000000;
   }
   .contact-list p {
     font-size: 13px;
